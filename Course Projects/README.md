@@ -2,7 +2,7 @@
 
 Project Number |  Project Name
 :-------------:|:--------------
-Project 2      | Guess the Flag
+Project 2      | [Guess the Flag](https://github.com/annalieNK/100DaysofSwiftUI-Portfolio/tree/main/Course%20Projects/GuessTheFlag)
 Project 3      | Rock, Paper, Scissors
 Project 4      | BetterRest
 Project 5      | WordScramble
