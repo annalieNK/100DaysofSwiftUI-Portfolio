@@ -11,7 +11,5 @@ The data for the ski resorts are stored in the JSON file ``resorts.json``.
 
 The below figures show a preview of the SnowSeeker app.
 
-![Ski Resorts](./Images/ski_resorts_navigationview.png)
-![Detail View Top](./Images/detailview_1.png)
-![Detail View Bottom](./Images/detailview_2.png)
+![Ski Resorts](./Images/ski_resorts_navigationview.png) ![Detail View Top](./Images/detailview_1.png) ![Detail View Bottom](./Images/detailview_2.png)
 
