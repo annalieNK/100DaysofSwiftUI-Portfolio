@@ -5,6 +5,7 @@ This app shows two views side by side: A list of ski resorts and a detail view p
 **The objectives of this app are:**
 - Adjusting the layout according to the screen size of the phone or tablet,
 - Adding a Search option to search for characters in the ski resort names,
+- Displaying extra information in the form of an alert,
 - Marking ski resorts as favorite.
 
 The data for the ski resorts are stored in the JSON file ``resorts.json``.
