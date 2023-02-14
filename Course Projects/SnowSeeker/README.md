@@ -1,6 +1,6 @@
 #  SnowSeeker (Project 19, Day 96-99)
 
-This app shows two views side by side: 1.) A list of ski resorts and 2.) A detail view per ski resort, depending on the size of your phone or tablet.
+This app shows two views side by side: A list of ski resorts and a detail view per ski resort, depending on the size of your phone or tablet.
 
 **The objectives of this app are:**
 - Adjusting the layout according to the screen size of the phone or tablet,
