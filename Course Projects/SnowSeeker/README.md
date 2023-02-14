@@ -1,6 +1,4 @@
-#  SnowSeeker 
-
-### Project 19, Day 97
+#  SnowSeeker (Project 19, Day 96-99)
 
 This app shows two views side by side: 1.) A list of ski resorts and 2.) A detail view per ski resort, depending on the size of your phone or tablet.
 
