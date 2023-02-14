@@ -23,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		34A0EB16299C3AA60062D394 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		34A1AA04299187CD008477C1 /* resorts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = resorts.json; sourceTree = "<group>"; };
 		34A1AA0629918A51008477C1 /* Resort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Resort.swift; sourceTree = "<group>"; };
 		34A1AA0829918B0C008477C1 /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
@@ -76,6 +77,7 @@
 				34A1AA1029919C2C008477C1 /* ResortDetailsView.swift */,
 				34A1AA0C2991954D008477C1 /* ResortView.swift */,
 				34A1AA1429942AA2008477C1 /* Favorites.swift */,
+				34A0EB16299C3AA60062D394 /* README.md */,
 				34A1AA122993196F008477C1 /* Facility.swift */,
 				34A1AA0A29918EED008477C1 /* WelcomeView.swift */,
 				34A1AA0829918B0C008477C1 /* Bundle-Decodable.swift */,
