@@ -6,7 +6,7 @@ The Course Projects section shows the applications that I built, while experimen
 
 The Milestone Projects section shows the milestone projects where Paul Hudson provided the opportunity to his learners to experiment with their own solutions to the challenges.
 
-I mostly enjoyed the project ['Person Lookup'](https://github.com/annalieNK/100DaysofSwiftUI-Portfolio/tree/main/Milestone%20Projects/PersonLookup) where I added my own version of some Favorite Places that I've visited. 
+I mostly enjoyed the project [Person Lookup](https://github.com/annalieNK/100DaysofSwiftUI-Portfolio/tree/main/Milestone%20Projects/PersonLookup) where I added my own version of some Favorite Places that I've visited. 
 
 
-### Looking forward to design and build many more applications!
+#### Looking forward to design and build many more applications!
