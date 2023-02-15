@@ -9,6 +9,6 @@ This app uses Core ML to make predictions about bed time based on the following 
 
 The below figures show a preview of the BetterRest app.
 
-Ski Resorts            |  Detail View Top         
+Main View              |  Feedback Alert      
 :---------------------:|:--------------------------
 ![](./Images/main.png) | ![](./Images/feedback.png) 

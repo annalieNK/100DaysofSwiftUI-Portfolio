@@ -8,8 +8,8 @@ This app is a game where you'll tap the correct flag and get a score. The game f
 - Working with shapes and rotations
 - Mapping images to indices
 
-The below figures show a preview of the GuessTheFlag app.
+The below figures show a preview of the Guess The Flag app.
 
-Ski Resorts                  |  Detail View Top           | Detail View Bottom
-:---------------------------:|:--------------------------:|:--------------------------
+Start Game             |  Feedback Score       | End Game
+:---------------------:|:---------------------:|:--------------------------
 ![](./Images/start_game.png) | ![](./Images/feedback.png) | ![](./Images/end_game.png)
