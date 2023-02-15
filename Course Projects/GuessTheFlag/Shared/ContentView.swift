@@ -55,8 +55,8 @@ struct ContentView: View {
                 .init(color: Color(red: 0.1, green: 0.2, blue: 0.45), location: 0.3),
                 .init(color: Color(red: 0.76, green: 0.15, blue: 0.26), location: 0.3),
             ], center: .top, startRadius: 200, endRadius: 400)
-            //            LinearGradient(gradient: Gradient(colors: [.mint, .black]), startPoint: .top, endPoint: .bottom)
-            //            Color.mint
+            //LinearGradient(gradient: Gradient(colors: [.mint, .black]), startPoint: .top, endPoint: .bottom)
+            //Color.mint
             VStack {
                 Spacer()
                 
@@ -70,7 +70,7 @@ struct ContentView: View {
                             .foregroundStyle(.secondary)
                             .font(.subheadline.weight(.heavy))
                         Text(countries[correctAnswer])
-                        //                            .foregroundColor(.white)
+                            //.foregroundColor(.white)
                             .font(.largeTitle.weight(.semibold))
                     }
                     
@@ -78,7 +78,7 @@ struct ContentView: View {
                         Button {
                             flagTapped(number)
                         } label: {
-//                            FlagImage(name: countries[number])
+                            //FlagImage(name: countries[number])
                             Image(countries[number])
                                 .renderingMode(.original)
                                 .clipShape(Capsule())
