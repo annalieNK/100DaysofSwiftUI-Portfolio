@@ -19,4 +19,4 @@ Main View - Grid               |  Main View - List
 
 Mission View                   |  Astronaut View         
 :-----------------------------:|:--------------------------
-![](./figures/grid_layout.png) | ![](./figures/list_layout.png) 
+![](./figures/mission_view.png) | ![](./figures/astronaut_view.png) 

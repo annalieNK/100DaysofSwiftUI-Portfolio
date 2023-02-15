@@ -8,8 +8,6 @@ This app shows two views side by side: A list of ski resorts and a detail view p
 - Displaying extra information in the form of an alert,
 - Marking ski resorts as favorite.
 
-The data for the ski resorts are stored in the JSON file ``resorts.json``.
-
 The below figures show a preview of the SnowSeeker app.
 
 Ski Resorts                                  |  Detail View Top               | Detail View Bottom

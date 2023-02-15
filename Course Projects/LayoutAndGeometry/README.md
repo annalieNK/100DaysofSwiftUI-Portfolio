@@ -1,7 +1,7 @@
 #  Layout And Geometry (Project 18, Day 92-94)
 
 This view shows an alignment, positioning, and scrollview effect.
-\
+
 **The objectives of this app are:**
 - Alginment and alignment guides
 - Positioning for SwiftUI views
